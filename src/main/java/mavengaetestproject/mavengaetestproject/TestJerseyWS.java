@@ -9,6 +9,6 @@ public class TestJerseyWS {
     @GET
     @Path("/test")
     public String testMethod() {
-        return "this is a test of times";
+        return "this is a test of times23455";
     }
 }
